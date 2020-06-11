@@ -3,7 +3,7 @@ PyTorch implementation of [Designing Network Design Spaces](https://arxiv.org/ab
 
 Compared to the [official codebase](https://github.com/facebookresearch/pycls), this repository follows the [torchvision's ResNeXt](https://github.com/pytorch/vision/blob/master/torchvision/models/resnet.py) style, which is expected to be more easily interpreted and utilized by pre-existing downstream applications.
 
-We train the following models on $8\times$ TITAN XP GPUs with 12G VRAM. During the first five epochs, we linearly ramp up the learning rate from 0.1.
+We train the following models on 8x TITAN XP GPUs with 12G VRAM. During the first five epochs, we linearly ramp up the learning rate from 0.1.
 
 # Pre-trained Models
 

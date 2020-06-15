@@ -20,6 +20,7 @@ We train the following models on 8x TITAN XP GPUs with 12G VRAM. During the firs
 | [RgeNetX-8.0G](https://hkustconnect-my.sharepoint.com/:u:/g/personal/dlibh_connect_ust_hk/EYTpeCq4OnNIr9ly3KmokywBodWSZHHBNPhiwirhk9Urag?e=PDsrFu) | 39.573     | 7.995  | 512        | 79.380                    | 79.3                     |
 | [RegNetX-12G](https://hkustconnect-my.sharepoint.com/:u:/g/personal/dlibh_connect_ust_hk/EWEqa2PJVdxOj-M95XlLFVIBns9cnbdV6V6ASl-lyHzwyw?e=XVhG10) | 46.106     | 12.087 | 256        | 79.998                    | 79.7                     |
 | [RegNetX-16G](https://hkustconnect-my.sharepoint.com/:u:/g/personal/dlibh_connect_ust_hk/ETjNce9S9bxGgU09rLXoXucBBNLbo3t8zdtyriK-Vc8Eww?e=CrNU6u) | 54.279     | 15.941 | 256        | 80.118                    | 80.0                     |
+| [RegNetX-32G](https://hkustconnect-my.sharepoint.com/:u:/g/personal/dlibh_connect_ust_hk/EReWI0v2kvVBpKAGWRy2Hb0BKaIk6wx-VbkFBqYoE-YQZw?e=dT0dos) | 107.812    | 31.736 | 256        | 80.516                    | 80.5                     |
 
 # Citation
 ```bibtex
